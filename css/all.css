@@ -1,0 +1,378 @@
+img.wp-smiley, img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 .07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important
+}
+
+.page-id-4315 .eltdf-content .eltdf-content-inner>.eltdf-container, .page-id-4315 .eltdf-content .eltdf-content-inner>.eltdf-full-width {
+    background-color: #000
+}
+
+.eltdf-mobile-header .eltdf-mobile-menu-opener {
+    float: right;
+    position: relative;
+    z-index: 2;
+    height: 100%
+}
+
+.eltdf-vertical-align-containers .eltdf-position-center {
+    height: 100%;
+    width: 85%;
+    position: absolute;
+    left: 0 !important;
+    text-align: center;
+    z-index: 1
+}
+
+a.eltdf-search-opener {
+    display: none
+}
+
+.widget {
+    margin: 0 0 5px !important
+}
+
+.eltdf-side-menu-button-opener .eltdf-side-menu-icon {
+    color: #35304b !important
+}
+
+.eltdf-ptf-category-holder {
+    display: none
+}
+
+.eltdf-ps-back-btn {
+    display: none !important
+}
+
+span.eltdf-ps-nav-mark {
+    display: none !important
+}
+
+.eltdf-wrapper-inner {
+    background-color: white !important
+}
+
+.eltdf-wrapper-inner .item_text {
+    color: white !important
+}
+
+.eltdf-logo-wrapper a img.eltdf-normal-logo {
+    opacity: 1 !important
+}
+
+a.current .item_text {
+    color: #ffffff !important
+}
+
+.strong-view-id-2 .wpmtst-testimonial-heading, .strong-view-id-2 .wpmtst-testimonial-content p, .strong-view-id-2 .wpmtst-testimonial-content a.readmore, .strong-view-id-2 .wpmtst-testimonial-client div, .strong-view-id-2 .wpmtst-testimonial-client a {
+    color: #000
+}
+
+.eltdf-content .eltdf-content-inner>.eltdf-full-width>.eltdf-full-width-inner {
+    padding-top: 0px !important
+}
+
+.eltdf-logo-wrapper a img.eltdf-normal-logo {
+    opacity: 1 !important
+}
+
+.eltdf-blog-holder article .eltdf-post-image img {
+    display: none !important
+}
+
+.eltdf-blog-holder article .eltdf-post-content {
+    margin-top: -80px !important
+}
+
+.bx-slide .bx-clone {
+    width: 700px !important
+}
+
+.wp-spaios-slider-wrap .bxslider img {
+    width: 100% !important
+}
+
+#port_pad .vc_column-inner {
+    padding-top: 0px !important
+}
+
+.eltdf-testimonial-title, .eltdf-testimonial-text, .eltdf-testimonial-author, .eltdf-testimonial-position {
+    color: #35304b !important
+}
+
+.authorhide {
+    display: none
+}
+
+p.eltdf-testimonial-text {
+    color: #000 !important
+}
+
+h6.eltdf-testimonial-author {
+    color: #000 !important
+}
+
+.eltdf-clients-boxes-holder .eltdf-cb-item .eltdf-cb-item-inner:after {
+    width: 0 !important;
+    height: 0px !important
+}
+
+@media(min-width:769px) {
+    .eltdf-cb-inner div:nth-last-child(2) {
+        margin: 0 0 0 25% !important
+    }
+    .eltdf-cb-inner>div:last-child>:before {
+        display: none !important
+    }
+}
+
+.paoc-popup-modal-cnt {
+    background-color: transparent;
+    padding: 0px !important
+}
+
+.eltdf-ptf-category-holder span {
+    display: none
+}
+
+.eltdf-testimonials-holder .eltdf-testimonial-image img {
+    width: 100px !important;
+    border-radius: 5em
+}
+
+.ih-item.square {
+    border: none !important;
+    box-shadow: none !important
+}
+
+.ih-item.square.effect5 .info h3, .ih-item.square.effect6 .info h3, .ih-item.square.effect7 .info h3, .ih-item.square.effect8 .info h3 {
+    text-align: left !important;
+    text-transform: none !important;
+    margin: 0 !important
+}
+
+.ih-item.square.effect6 .info h3 {
+    background: none !important;
+    font-size: 25px !important
+}
+
+.ih-item.square.effect6.left_to_right div>p {
+    display: none
+}
+
+.ih-item.square.effect6 a:hover .img {
+    -webkit-transform: none !important;
+    -moz-transform: none !important;
+    transform: none !important
+}
+
+.ih-item.square.effect6.left_to_right a div h3 {
+    border-bottom: 2px solid #35304b
+}
+
+div#wp_50_photo1 p {
+    color: #35304b !important
+}
+
+#tss_content {
+    width: 70% !important
+}
+
+div#tss_warppper {
+    padding: 4% 0 !important
+}
+
+h3.testimonial-heading {
+    display: none
+}
+
+.wpmslider-viewport {
+    background: #FFF
+}
+
+.testimonial-image img {
+    border-radius: 100%
+}
+
+@media (min-width:1024px) {
+    .strong-view.simple.nav-position-inside .testimonial-inner {
+        padding-bottom: 48px;
+        padding-left: 12% !important;
+        padding-right: 12% !important
+    }
+    .testimonial-content p {
+        padding: 4% 0 0 26% !important
+    }
+    .testimonial-field.testimonial-name {
+        padding: 0% 4%
+    }
+}
+
+a.paoc-popup.popupaoc-link-image img:hover {
+    transform: scale(1.1);
+    transition: transform .25s, visibility .25s ease-in
+}
+
+.getdirection a {
+    background: #deb947 !important;
+    font-weight: 700;
+    font-family: "Titillium Web", serif !important;
+    text-transform: uppercase
+}
+
+.getdirection a:hover {
+    background: #FFF !important;
+    color: #000 !important
+}
+
+div#videopopup div {
+    padding-top: 0
+}
+
+.wp-spaios-slider-wrap .bx-wrapper {
+    margin-bottom: 0 !important
+}
+
+div#videopopup {
+    margin-top: -15.6% !important
+}
+
+.vc_custom_1564401651258 {
+    background-color: white !important
+}
+
+.vc_custom_1565097397534 {
+    background-color: white !important
+}
+
+.vc_custom_1564404506367 {
+    background-color: white !important
+}
+
+.vc_custom_1571207012011 {
+    background-color: white !important
+}
+
+.vc_custom_1485788692632 {
+    padding-top: 60px !important;
+    padding-bottom: 213px !important;
+    background-color: #35304b !important
+}
+
+.vc_custom_1564405079178 {
+    padding-bottom: 52px !important;
+    background-color: white !important
+}
+
+.vc_custom_1564401651258 {
+    background-color: white !important
+}
+
+.vc_custom_1571056517483 {
+    background-color: white !important
+}
+
+.vc_custom_1571992217565 {
+    padding-top: 0px !important
+}
+
+.vc_custom_1564407099021 {
+    padding-top: 98px !important;
+    padding-bottom: 50px !important;
+    background-color: white !important
+}
+
+.vc_custom_1569403211780 {
+    padding-top: 75px !important;
+    padding-bottom: 138px !important;
+    background-color: #f7f5f5 !important
+}
+
+.vc_custom_1574336860031 {
+    padding-top: 96px !important;
+    padding-bottom: 175px !important;
+    background-image: url(wp-content/uploads/2019/11/Contact-us-1380X454-13828.jpg?id=10578) !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important
+}
+
+.vc_custom_1485851898142 {
+    padding-top: 100px !important;
+    padding-bottom: 131px !important;
+    background-color: #35304b !important
+}
+
+.vc_custom_1485506784442 {
+    padding-right: 15% !important;
+    padding-left: 15% !important
+}
+
+.vc_custom_1485788816159 {
+    margin-top: -186px !important
+}
+
+.vc_custom_1591106768400 {
+    padding-bottom: 147px !important
+}
+
+.vc_custom_1486376641399 {
+    padding-top: 116px !important;
+    padding-bottom: 40px !important
+}
+
+.vc_custom_1565080666791 {
+    border-top-width: 2px !important;
+    border-right-width: 2px !important;
+    border-left-width: 2px !important;
+    padding-bottom: 2px !important;
+    border-left-color: #35304b !important;
+    border-right-color: #35304b !important;
+    border-top-color: #35304b !important;
+    border-radius: 3px !important
+}
+
+.vc_custom_1485852024237 {
+    margin-top: -247px !important;
+    background-color: #ffffff !important
+}
+
+.vc_custom_1485851685000 {
+    padding-top: 95px !important
+}
+
+.vc_custom_1487074793521 {
+    border-right-width: 1px !important;
+    padding-top: 19.4% !important;
+    padding-right: 10% !important;
+    padding-bottom: 21.8% !important;
+    padding-left: 10% !important;
+    border-right-color: #e1e1e1 !important;
+    border-right-style: solid !important
+}
+
+.vc_custom_1487074788220 {
+    border-right-width: 1px !important;
+    padding-top: 19.4% !important;
+    padding-right: 10% !important;
+    padding-bottom: 21.8% !important;
+    padding-left: 10% !important;
+    border-right-color: #e1e1e1 !important;
+    border-right-style: solid !important
+}
+
+.vc_custom_1487074782428 {
+    border-right-width: 1px !important;
+    padding-top: 19.4% !important;
+    padding-right: 10% !important;
+    padding-bottom: 21.8% !important;
+    padding-left: 10% !important;
+    border-right-color: #ffffff !important;
+    border-right-style: solid !important
+}
