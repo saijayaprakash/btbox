@@ -1,2 +1,0 @@
-# OutOfTheBoxRevamp
-Revamped Version
